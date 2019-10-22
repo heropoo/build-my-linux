@@ -1,0 +1,6 @@
+language: c
+os:
+  - linux
+before_script:
+  - wget https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.80.tar.xz && tar xf linux-4.19.80.tar.xz
+  - wget http://busybox.net/downloads/busybox-1.30.1.tar.bz2 && tar xf busybox-1.30.1.tar.bz2
