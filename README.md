@@ -1,5 +1,3 @@
-# build-my-linux
-Build a linux from source code.
-
-http://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-8.4.pdf
+# Build My Linux
+Build a Linux based operating system from source code.
 
